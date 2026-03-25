@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Shashank%20G&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20|%20Frontend%20Developer%20|%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Shashank%20G&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20|%20Frontend%20Developer%20"/>
 
 <p align="center">
 
@@ -179,35 +179,13 @@ LangChain
 
 ---
 
-# 🏆 Engineering Credibility
+## 🐍 Contribution Snake
 
-✔ End-to-end ML systems  
-✔ Backend API development  
-✔ AI inference pipelines  
-✔ Data preprocessing pipelines  
-✔ Full stack engineering  
+<p align="center">
 
----
+<img src="https://raw.githubusercontent.com/shashank-g2100/shashank-g2100/output/github-contribution-grid-snake-dark.svg"/>
 
-# 🎯 Engineering Roadmap
-
-Current growth focus:
-
-• Advanced backend engineering  
-• System design  
-• ML deployment  
-• Distributed systems basics  
-• DSA mastery  
-
----
-
-# 🐍 Contribution Snake (Elite Profiles Use This)
-
-(Add this after enabling GitHub action)
-
-```
-generate-snake-game-from-github-contribution-grid
-```
+</p>
 
 ---
 

@@ -91,12 +91,6 @@ LangChain
 
 ---
 
-# 📊 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashank-g2100&theme=react-dark"/>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">

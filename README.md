@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Shashank%20G&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20|%20Frontend%20Developer%20"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Shashank%20G&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&&desc=AI/ML%20Engineer%20|%20Frontend%20Developer%20"/>
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=27&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Developer;Backend+Engineer;FastAPI+Specialist;Next.js+Developer;System+Design+Learner"/>
 
-</p>
+</p> -->
 
 ---
 
